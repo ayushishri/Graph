@@ -1,6 +1,6 @@
 import sys
-sys.path.insert(0,'ayushi.shri/Queue')
-sys.path.insert(0,'ayushi.shri/Stack')
+sys.path.insert(0,'ayushishri/Queue')
+sys.path.insert(0,'ayushishri/Stack')
 
 import queue
 import stack
